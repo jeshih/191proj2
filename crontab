@@ -1,0 +1,3 @@
+40 * * * * env DISPLAY=:0 ~/scripts/deletion_warning.sh 30 10
+50 * * * * env DISPLAY=:0 ~/scripts/delete_unused_files.sh 30
+
